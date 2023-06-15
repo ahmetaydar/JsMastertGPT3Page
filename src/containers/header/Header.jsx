@@ -31,5 +31,5 @@ const Header = () => {
     </div>
   );
 };
-
+//1:33 te kaldım....
 export default Header;
